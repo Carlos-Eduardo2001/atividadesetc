@@ -1,0 +1,7 @@
+C:\Users\carlos.esjunior6\source\repos\Pares_Impares_array\Pares_Impares_array\bin\Debug\Pares_Impares_array.exe.config
+C:\Users\carlos.esjunior6\source\repos\Pares_Impares_array\Pares_Impares_array\bin\Debug\Pares_Impares_array.exe
+C:\Users\carlos.esjunior6\source\repos\Pares_Impares_array\Pares_Impares_array\bin\Debug\Pares_Impares_array.pdb
+C:\Users\carlos.esjunior6\source\repos\Pares_Impares_array\Pares_Impares_array\obj\Debug\Pares_Impares_array.csproj.AssemblyReference.cache
+C:\Users\carlos.esjunior6\source\repos\Pares_Impares_array\Pares_Impares_array\obj\Debug\Pares_Impares_array.csproj.CoreCompileInputs.cache
+C:\Users\carlos.esjunior6\source\repos\Pares_Impares_array\Pares_Impares_array\obj\Debug\Pares_Impares_array.exe
+C:\Users\carlos.esjunior6\source\repos\Pares_Impares_array\Pares_Impares_array\obj\Debug\Pares_Impares_array.pdb

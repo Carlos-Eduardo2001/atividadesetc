@@ -1,0 +1,7 @@
+C:\Users\carlos.esjunior6\source\repos\SistemaHosp\SistemaHosp\bin\Debug\SistemaHosp.exe.config
+C:\Users\carlos.esjunior6\source\repos\SistemaHosp\SistemaHosp\bin\Debug\SistemaHosp.exe
+C:\Users\carlos.esjunior6\source\repos\SistemaHosp\SistemaHosp\bin\Debug\SistemaHosp.pdb
+C:\Users\carlos.esjunior6\source\repos\SistemaHosp\SistemaHosp\obj\Debug\SistemaHosp.csproj.AssemblyReference.cache
+C:\Users\carlos.esjunior6\source\repos\SistemaHosp\SistemaHosp\obj\Debug\SistemaHosp.csproj.CoreCompileInputs.cache
+C:\Users\carlos.esjunior6\source\repos\SistemaHosp\SistemaHosp\obj\Debug\SistemaHosp.exe
+C:\Users\carlos.esjunior6\source\repos\SistemaHosp\SistemaHosp\obj\Debug\SistemaHosp.pdb

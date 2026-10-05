@@ -1,0 +1,7 @@
+C:\Users\carlos.esjunior6\source\repos\Cadastro_de_Produtos\Cadastro_de_Produtos\bin\Debug\Cadastro_de_Produtos.exe.config
+C:\Users\carlos.esjunior6\source\repos\Cadastro_de_Produtos\Cadastro_de_Produtos\bin\Debug\Cadastro_de_Produtos.exe
+C:\Users\carlos.esjunior6\source\repos\Cadastro_de_Produtos\Cadastro_de_Produtos\bin\Debug\Cadastro_de_Produtos.pdb
+C:\Users\carlos.esjunior6\source\repos\Cadastro_de_Produtos\Cadastro_de_Produtos\obj\Debug\Cadastro_de_Produtos.csproj.AssemblyReference.cache
+C:\Users\carlos.esjunior6\source\repos\Cadastro_de_Produtos\Cadastro_de_Produtos\obj\Debug\Cadastro_de_Produtos.csproj.CoreCompileInputs.cache
+C:\Users\carlos.esjunior6\source\repos\Cadastro_de_Produtos\Cadastro_de_Produtos\obj\Debug\Cadastro_de_Produtos.exe
+C:\Users\carlos.esjunior6\source\repos\Cadastro_de_Produtos\Cadastro_de_Produtos\obj\Debug\Cadastro_de_Produtos.pdb

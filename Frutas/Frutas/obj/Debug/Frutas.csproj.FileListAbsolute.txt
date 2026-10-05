@@ -1,0 +1,7 @@
+C:\Users\carlos.esjunior6\source\repos\Frutas\Frutas\bin\Debug\Frutas.exe.config
+C:\Users\carlos.esjunior6\source\repos\Frutas\Frutas\bin\Debug\Frutas.exe
+C:\Users\carlos.esjunior6\source\repos\Frutas\Frutas\bin\Debug\Frutas.pdb
+C:\Users\carlos.esjunior6\source\repos\Frutas\Frutas\obj\Debug\Frutas.csproj.AssemblyReference.cache
+C:\Users\carlos.esjunior6\source\repos\Frutas\Frutas\obj\Debug\Frutas.csproj.CoreCompileInputs.cache
+C:\Users\carlos.esjunior6\source\repos\Frutas\Frutas\obj\Debug\Frutas.exe
+C:\Users\carlos.esjunior6\source\repos\Frutas\Frutas\obj\Debug\Frutas.pdb

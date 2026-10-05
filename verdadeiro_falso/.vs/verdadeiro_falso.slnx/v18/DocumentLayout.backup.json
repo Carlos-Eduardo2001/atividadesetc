@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlos.esjunior6\\source\\repos\\verdadeiro_falso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C2F3C6-F0A1-4791-8897-01E7FCE6309E}|verdadeiro_falso\\verdadeiro_falso.csproj|c:\\users\\carlos.esjunior6\\source\\repos\\verdadeiro_falso\\verdadeiro_falso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C2F3C6-F0A1-4791-8897-01E7FCE6309E}|verdadeiro_falso\\verdadeiro_falso.csproj|solutionrelative:verdadeiro_falso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.esjunior6\\source\\repos\\verdadeiro_falso\\verdadeiro_falso\\Program.cs",
+              "RelativeDocumentMoniker": "verdadeiro_falso\\Program.cs",
+              "ToolTip": "C:\\Users\\carlos.esjunior6\\source\\repos\\verdadeiro_falso\\verdadeiro_falso\\Program.cs*",
+              "RelativeToolTip": "verdadeiro_falso\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T11:22:46.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\carlos.esjunior6\source\repos\Historico_Compra\Historico_Compra\bin\Debug\Historico_Compra.exe.config
+C:\Users\carlos.esjunior6\source\repos\Historico_Compra\Historico_Compra\bin\Debug\Historico_Compra.exe
+C:\Users\carlos.esjunior6\source\repos\Historico_Compra\Historico_Compra\bin\Debug\Historico_Compra.pdb
+C:\Users\carlos.esjunior6\source\repos\Historico_Compra\Historico_Compra\obj\Debug\Historico_Compra.csproj.AssemblyReference.cache
+C:\Users\carlos.esjunior6\source\repos\Historico_Compra\Historico_Compra\obj\Debug\Historico_Compra.csproj.CoreCompileInputs.cache
+C:\Users\carlos.esjunior6\source\repos\Historico_Compra\Historico_Compra\obj\Debug\Historico_Compra.exe
+C:\Users\carlos.esjunior6\source\repos\Historico_Compra\Historico_Compra\obj\Debug\Historico_Compra.pdb

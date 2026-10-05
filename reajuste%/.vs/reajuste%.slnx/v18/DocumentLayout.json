@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlos.esjunior6\\source\\repos\\reajuste%\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06840814-076D-416D-A463-60F73BF9B987}|reajuste%\\reajuste%.csproj|c:\\users\\carlos.esjunior6\\source\\repos\\reajuste%\\reajuste%\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06840814-076D-416D-A463-60F73BF9B987}|reajuste%\\reajuste%.csproj|solutionrelative:reajuste%\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.esjunior6\\source\\repos\\reajuste%\\reajuste%\\Program.cs",
+              "RelativeDocumentMoniker": "reajuste%\\Program.cs",
+              "ToolTip": "C:\\Users\\carlos.esjunior6\\source\\repos\\reajuste%\\reajuste%\\Program.cs",
+              "RelativeToolTip": "reajuste%\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T11:11:04.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

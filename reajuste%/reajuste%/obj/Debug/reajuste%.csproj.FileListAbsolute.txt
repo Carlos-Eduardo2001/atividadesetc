@@ -1,0 +1,7 @@
+C:\Users\carlos.esjunior6\source\repos\reajuste%\reajuste%\bin\Debug\reajuste%.exe.config
+C:\Users\carlos.esjunior6\source\repos\reajuste%\reajuste%\bin\Debug\reajuste%.exe
+C:\Users\carlos.esjunior6\source\repos\reajuste%\reajuste%\bin\Debug\reajuste%.pdb
+C:\Users\carlos.esjunior6\source\repos\reajuste%\reajuste%\obj\Debug\reajuste%.csproj.AssemblyReference.cache
+C:\Users\carlos.esjunior6\source\repos\reajuste%\reajuste%\obj\Debug\reajuste%.csproj.CoreCompileInputs.cache
+C:\Users\carlos.esjunior6\source\repos\reajuste%\reajuste%\obj\Debug\reajuste%.exe
+C:\Users\carlos.esjunior6\source\repos\reajuste%\reajuste%\obj\Debug\reajuste%.pdb

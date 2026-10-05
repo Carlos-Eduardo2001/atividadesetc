@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlos.esjunior6\\source\\repos\\Pares_Impares_array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9223F8DC-15F9-4D0C-9BB8-C6729BB3AE97}|Pares_Impares_array\\Pares_Impares_array.csproj|c:\\users\\carlos.esjunior6\\source\\repos\\pares_impares_array\\pares_impares_array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9223F8DC-15F9-4D0C-9BB8-C6729BB3AE97}|Pares_Impares_array\\Pares_Impares_array.csproj|solutionrelative:pares_impares_array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.esjunior6\\source\\repos\\Pares_Impares_array\\Pares_Impares_array\\Program.cs",
+              "RelativeDocumentMoniker": "Pares_Impares_array\\Program.cs",
+              "ToolTip": "C:\\Users\\carlos.esjunior6\\source\\repos\\Pares_Impares_array\\Pares_Impares_array\\Program.cs",
+              "RelativeToolTip": "Pares_Impares_array\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T14:17:07.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

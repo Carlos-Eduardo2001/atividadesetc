@@ -1,0 +1,7 @@
+C:\Users\carlos.esjunior6\source\repos\ClinicaPodologia\ClinicaPodologia\bin\Debug\ClinicaPodologia.exe.config
+C:\Users\carlos.esjunior6\source\repos\ClinicaPodologia\ClinicaPodologia\bin\Debug\ClinicaPodologia.exe
+C:\Users\carlos.esjunior6\source\repos\ClinicaPodologia\ClinicaPodologia\bin\Debug\ClinicaPodologia.pdb
+C:\Users\carlos.esjunior6\source\repos\ClinicaPodologia\ClinicaPodologia\obj\Debug\ClinicaPodologia.csproj.AssemblyReference.cache
+C:\Users\carlos.esjunior6\source\repos\ClinicaPodologia\ClinicaPodologia\obj\Debug\ClinicaPodologia.csproj.CoreCompileInputs.cache
+C:\Users\carlos.esjunior6\source\repos\ClinicaPodologia\ClinicaPodologia\obj\Debug\ClinicaPodologia.exe
+C:\Users\carlos.esjunior6\source\repos\ClinicaPodologia\ClinicaPodologia\obj\Debug\ClinicaPodologia.pdb

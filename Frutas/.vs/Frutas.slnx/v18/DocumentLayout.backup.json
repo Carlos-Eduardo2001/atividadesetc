@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlos.esjunior6\\source\\repos\\Frutas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7077FF2-B70D-418F-B1B1-25E350654913}|Frutas\\Frutas.csproj|c:\\users\\carlos.esjunior6\\source\\repos\\frutas\\frutas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7077FF2-B70D-418F-B1B1-25E350654913}|Frutas\\Frutas.csproj|solutionrelative:frutas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlos.esjunior6\\source\\repos\\Frutas\\Frutas\\Program.cs",
+              "RelativeDocumentMoniker": "Frutas\\Program.cs",
+              "ToolTip": "C:\\Users\\carlos.esjunior6\\source\\repos\\Frutas\\Frutas\\Program.cs",
+              "RelativeToolTip": "Frutas\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:42:43.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

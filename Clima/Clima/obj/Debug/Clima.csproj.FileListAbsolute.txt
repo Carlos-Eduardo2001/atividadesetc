@@ -1,0 +1,7 @@
+C:\Users\carlos.esjunior6\source\repos\Clima\Clima\bin\Debug\Clima.exe.config
+C:\Users\carlos.esjunior6\source\repos\Clima\Clima\bin\Debug\Clima.exe
+C:\Users\carlos.esjunior6\source\repos\Clima\Clima\bin\Debug\Clima.pdb
+C:\Users\carlos.esjunior6\source\repos\Clima\Clima\obj\Debug\Clima.csproj.AssemblyReference.cache
+C:\Users\carlos.esjunior6\source\repos\Clima\Clima\obj\Debug\Clima.csproj.CoreCompileInputs.cache
+C:\Users\carlos.esjunior6\source\repos\Clima\Clima\obj\Debug\Clima.exe
+C:\Users\carlos.esjunior6\source\repos\Clima\Clima\obj\Debug\Clima.pdb

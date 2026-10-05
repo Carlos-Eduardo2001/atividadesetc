@@ -1,0 +1,7 @@
+C:\Users\carlos.esjunior6\source\repos\verdadeiro_falso\verdadeiro_falso\obj\Debug\verdadeiro_falso.csproj.AssemblyReference.cache
+C:\Users\carlos.esjunior6\source\repos\verdadeiro_falso\verdadeiro_falso\obj\Debug\verdadeiro_falso.csproj.CoreCompileInputs.cache
+C:\Users\carlos.esjunior6\source\repos\verdadeiro_falso\verdadeiro_falso\bin\Debug\verdadeiro_falso.exe.config
+C:\Users\carlos.esjunior6\source\repos\verdadeiro_falso\verdadeiro_falso\bin\Debug\verdadeiro_falso.exe
+C:\Users\carlos.esjunior6\source\repos\verdadeiro_falso\verdadeiro_falso\bin\Debug\verdadeiro_falso.pdb
+C:\Users\carlos.esjunior6\source\repos\verdadeiro_falso\verdadeiro_falso\obj\Debug\verdadeiro_falso.exe
+C:\Users\carlos.esjunior6\source\repos\verdadeiro_falso\verdadeiro_falso\obj\Debug\verdadeiro_falso.pdb
